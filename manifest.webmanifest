@@ -1,0 +1,11 @@
+{
+  "name": "CodeRepo Offline",
+  "short_name": "CodeRepo",
+  "description": "An offline, GitHub-style repository manager that stores everything in your browser.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d15",
+  "theme_color": "#0b0f17",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
